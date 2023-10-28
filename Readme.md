@@ -7,3 +7,9 @@ It transformed and cleaned the data by removing and unwanted column and deleting
 It used panda for cleaning the data
 
 It loads the data to a MongoDB
+
+
+*****************
+Cron Schedule 
+*****************
+15 * * * * python3 index.py

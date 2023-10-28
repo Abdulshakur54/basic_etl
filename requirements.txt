@@ -1,0 +1,7 @@
+#Required External Packages
+1. pymongo
+2. dotenv
+3. pandas
+
+
+# To run in cron_tab, files must be put in directories where cron has access such as /usr/bin
