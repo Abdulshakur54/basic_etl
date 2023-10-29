@@ -12,4 +12,4 @@ It loads the data to a MongoDB
 *****************
 Cron Schedule 
 *****************
-*/15 * * * * python3 index.py
+*/15 * * * * shell.sh
