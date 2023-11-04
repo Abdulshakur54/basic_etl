@@ -1,7 +1,8 @@
 #Required External Packages
-pymongo
-dotenv
-pandas
+pymongo 4.5.0
+dotenv 1.0.0
+pandas 2.1.2
+pytest 7.4.2
 
 
 # To run in cron_tab, files must be put in directories where cron has access such as /usr/bin
